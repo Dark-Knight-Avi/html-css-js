@@ -1,0 +1,35 @@
+/* External Styling */
+/* Select Using Tag */
+div {
+    color: red;
+}
+
+/* Select using ID */
+#box1{
+    font-size: 20px;
+    padding: 20px 10px;
+}
+#box2{
+    font-size: 50px;
+    display: none;
+    /* visibility: hidden; */
+}
+#box3{
+    font-size: 100px;
+}
+
+/* select using class */
+
+.box {
+    border: 2px solid blue;
+    margin: 20px 10px;
+    /* display: inline-block; */
+}
+
+/* Spacing outside the border: Margin
+Spacing inside the border: Padding */
+
+/* Styling:
+i) Inline
+ii) Embedded
+iii) External */
